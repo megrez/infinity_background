@@ -21,6 +21,7 @@
     * [ALEPH High Functionary](hvt/aleph.md)
     * [Midnight Sun Analyst](hvt/nomads.md)
     * [Neoterran Corporate Executive](hvt/panoceania.md)
+    * [Colonel Voronin](hvt/ariadna.md)
     
 * [Благодарности](AUTHORS.md)
 
