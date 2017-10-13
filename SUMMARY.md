@@ -29,6 +29,7 @@
   * [Avicenna](avicenna.md)
   * [Bit & KISS!](mercenary/bit-and-kiss.md)
   * [Cypher](mercenary/cypher.md)
+  * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
 * [Благодарности](AUTHORS.md)
 
