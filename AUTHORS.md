@@ -1,18 +1,19 @@
-Translators
-------------
+## Translators
 
-- Russian
-    - Denis Darvish
-    - Костя Першин (раздел HVT)
-    - Дмитрий Кривощапов (Полковник Евгений Воронин)
-    - http://greenmetalsoldiers.blogspot.ru/ и https://vk.com/infinity_krsk (Bit & KISS!)
+* Russian
+  * Denis Darvish
+  * Костя Першин \(раздел HVT\)
+  * Дмитрий Кривощапов \(Полковник Евгений Воронин, "Тони" Макаяна, лейтенант Тикибаланг\)
+  * [http://greenmetalsoldiers.blogspot.ru/](http://greenmetalsoldiers.blogspot.ru/) и [https://vk.com/infinity\_krsk](https://vk.com/infinity_krsk) \(Bit & KISS!\)
 
-Proofreading
-------------
-- Russian
-    - Николай Ткачев
+## Proofreading
 
+* Russian
+  * Николай Ткачев
 
-Черновики
-------------
+## Черновики
+
 * [Achilles](achilles.md)
+
+
+
