@@ -28,6 +28,8 @@
 * \[Часть 4. Наемники\]
   * [Avicenna](avicenna.md)
   * [Bit & KISS!](mercenary/bit-and-kiss.md)
+  * [Cypher](mercenary/cypher.md)
+  * [Switch](mercenary/switch.md)
 * [Благодарности](AUTHORS.md)
 
 
