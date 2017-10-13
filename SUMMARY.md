@@ -19,7 +19,7 @@
     * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
     * [Thrasymedes](part2/thrasymedes.md)
   * \[Панокеания\]
-    * [Tony.md](tonymd.md)
+    * [Тони Макаяна](panoceania/tony.md)
 * [\[Часть 3. Особо важные персоны\]](chast-3-osobo-vazhnie-personi.md)
   * [ALEPH High Functionary](hvt/aleph.md)
   * [Midnight Sun Analyst](hvt/nomads.md)
