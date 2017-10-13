@@ -10,19 +10,24 @@
   * [Sun Tze](sun_tze.md)
   * [William Wallace](william_wallace.md)
 * [\[Часть 2. Герои\]](chast-2-geroi.md)
-  * [Acmon](part2/acmon.md)
-  * [Atalanta](part2/atalanta.md)
-  * [Hector](part2/hector.md)
-  * [Nesaie](part2/nesaie.md)
-  * [Taucer](part2/taucer.md)
-  * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
-  * [Thrasymedes](part2/thrasymedes.md)
+  * \[АЛЕФ\]
+    * [Acmon](part2/acmon.md)
+    * [Atalanta](part2/atalanta.md)
+    * [Hector](part2/hector.md)
+    * [Nesaie](part2/nesaie.md)
+    * [Taucer](part2/taucer.md)
+    * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
+    * [Thrasymedes](part2/thrasymedes.md)
+  * \[Панокеания\]
+    * [Tony.md](tonymd.md)
 * [\[Часть 3. Особо важные персоны\]](chast-3-osobo-vazhnie-personi.md)
   * [ALEPH High Functionary](hvt/aleph.md)
   * [Midnight Sun Analyst](hvt/nomads.md)
   * [Neoterran Corporate Executive](hvt/panoceania.md)
   * [Colonel Yevgueni Voronin](hvt/ariadna.md)
+* \[Часть 4. Наемники\]
+  * [Avicenna](avicenna.md)
+  * [Bit & KISS!](mercenary/bit-and-kiss.md)
 * [Благодарности](AUTHORS.md)
-* [Tony.md](tonymd.md)
-* [bit\_and\_kiss.md](bitand-kiss-md.md)
+
 
