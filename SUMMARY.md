@@ -24,4 +24,5 @@
   * [Colonel Yevgueni Voronin](hvt/ariadna.md)
 * [Благодарности](AUTHORS.md)
 * [Tony.md](tonymd.md)
+* [bit\_and\_kiss.md](bitand-kiss-md.md)
 
