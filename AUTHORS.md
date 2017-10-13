@@ -4,7 +4,7 @@
   * Denis Darvish
   * Костя Першин \(раздел HVT\)
   * Дмитрий Кривощапов \(Полковник Евгений Воронин, "Тони" Макаяна, лейтенант Тикибаланг\)
-  * [http://greenmetalsoldiers.blogspot.ru/](http://greenmetalsoldiers.blogspot.ru/) и [https://vk.com/infinity\_krsk](https://vk.com/infinity_krsk) \(Bit & KISS!\)
+  * [Александр Черник](https://vk.com/id22682955) \(Bit & KISS!\)
 
 ## Proofreading
 
