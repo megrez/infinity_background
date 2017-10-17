@@ -9,6 +9,7 @@
   * [Повелитель врат](haqqislam/gatesowner.md)
   * [Новый конкубинат](haqqislam/newinqubinate.md)
   * [Абордаж](haqqislam/boarding.md)
+  * [Орел Хаккислама](haqqislam/eagle.md)
 * \[Часть 1. Воссозданные\]
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
@@ -39,5 +40,4 @@
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
 * [Благодарности](AUTHORS.md)
-* [eagle](eagle.md)
 
