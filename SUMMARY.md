@@ -4,6 +4,7 @@
 * [Access guide to the human sphere](access-guide-to-the-human-sphere.md)
 * [Haqqislam](haqqislam/haqqislam.md)
   * [Знакомство с Хаккисламом](haqqislam/intro.md)
+  * [Мозаика Хаккислама](mozaik.md)
 * \[Часть 1. Воссозданные\]
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
@@ -34,5 +35,4 @@
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
 * [Благодарности](AUTHORS.md)
-* [Mozaik](mozaik.md)
 
