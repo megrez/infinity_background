@@ -5,6 +5,7 @@
 * [Haqqislam](haqqislam/haqqislam.md)
   * [Знакомство с Хаккисламом](haqqislam/intro.md)
   * [Мозаика Хаккислама](mozaik.md)
+  * [Коммерция: живительная сила Хаккислама](commercial.md)
 * \[Часть 1. Воссозданные\]
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
@@ -35,5 +36,4 @@
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
 * [Благодарности](AUTHORS.md)
-* [commercial](commercial.md)
 
