@@ -6,6 +6,7 @@
   * [Знакомство с Хаккисламом](haqqislam/intro.md)
   * [Мозаика Хаккислама](mozaik.md)
   * [Коммерция: живительная сила Хаккислама](commercial.md)
+  * [Повелитель врат](gatesowner.md)
 * \[Часть 1. Воссозданные\]
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
