@@ -35,4 +35,5 @@
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
 * [Благодарности](AUTHORS.md)
+* [commercial](commercial.md)
 
