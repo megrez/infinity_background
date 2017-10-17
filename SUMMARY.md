@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Access guide to the human sphere](access-guide-to-the-human-sphere.md)
+* [Haqqislam](haqqislam/haqqislam.md)
+  * [Знакомство с Хаккисламом](haqqislam/intro.md)
 * \[Часть 1. Воссозданные\]
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
