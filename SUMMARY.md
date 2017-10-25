@@ -11,6 +11,8 @@
   * [Абордаж](haqqislam/boarding.md)
   * [Орел Хаккислама](haqqislam/eagle.md)
   * [Узоры меча Аллаха](haqqislam/swordscolors.md)
+  * [Иран Зат Аль-Амат](haqqislam/yourdream.md)
+  * [Хассасины](haqqislam/hassassins.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
