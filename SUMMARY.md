@@ -16,6 +16,7 @@
   * [Загадочные Хассасины](haqqislam/mysterioushassassins.md)
   * [Страх Хассасинов](haqqislam/fearof-the-hassassins.md)
   * [Герои в тени](haqqislam/heroes-in-a-shadow.md)
+  * [В зале горного короля](haqqislam/hall-of-mountain-king.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
