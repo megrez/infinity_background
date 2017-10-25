@@ -2,7 +2,12 @@
 
 * [Introduction](README.md)
 * [Access guide to the human sphere](access-guide-to-the-human-sphere.md)
-* [Haqqislam](haqqislam/haqqislam.md)
+* [Haqqislam - Core Book](haqqislam-core-book/README.md)
+  * [Основатель](haqqislam-core-book/founder.md)
+  * [Рождение нового Ислама](haqqislam-core-book/birth-of-haqqislam.md)
+  * [По следам пророка](haqqislam-core-book/following-the-prophet.md)
+  * [Нация торговцев](haqqislam-core-book/nation-of-traders.md)
+* [Haqqislam - Human Sphere](haqqislam/haqqislam.md)
   * [Знакомство с Хаккисламом](haqqislam/intro.md)
   * [Мозаика Хаккислама](haqqislam/mozaik.md)
   * [Коммерция: живительная сила Хаккислама](haqqislam/commercial.md)
@@ -44,11 +49,10 @@
   * [Midnight Sun Analyst](hvt/nomads.md)
   * [Neoterran Corporate Executive](hvt/panoceania.md)
   * [Colonel Yevgueni Voronin](hvt/ariadna.md)
-* \[Часть 4. Наемники\]
+* [\[Часть 4. Наемники\]](chast-4-naemniki.md)
   * [Avicenna](avicenna.md)
   * [Bit & KISS!](mercenary/bit-and-kiss.md)
   * [Cypher](mercenary/cypher.md)
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
-* [Благодарности](AUTHORS.md)
 
