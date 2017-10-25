@@ -13,6 +13,7 @@
   * [Узоры меча Аллаха](haqqislam/swordscolors.md)
   * [Иран Зат Аль-Амат](haqqislam/yourdream.md)
   * [Хассасины](haqqislam/hassassins.md)
+  * [Загадочные Хассасины](haqqislam/mysterioushassassins.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
