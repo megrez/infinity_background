@@ -7,6 +7,8 @@
   * [Рождение нового Ислама](haqqislam-core-book/birth-of-haqqislam.md)
   * [По следам пророка](haqqislam-core-book/following-the-prophet.md)
   * [Нация торговцев](haqqislam-core-book/nation-of-traders.md)
+  * [Тебб Аль-Наби. Медицина пророка](haqqislam-core-book/tebb-al-nabi-meditsina-proroka.md)
+  * [Бурак Гоу-Гоу](haqqislam-core-book/burak-gou-gou.md)
 * [Haqqislam - Human Sphere](haqqislam/haqqislam.md)
   * [Знакомство с Хаккисламом](haqqislam/intro.md)
   * [Мозаика Хаккислама](haqqislam/mozaik.md)
